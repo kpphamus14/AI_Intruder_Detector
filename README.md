@@ -14,5 +14,9 @@ AI Intruder Detector is an accurate, fast response, and affordable system that h
 ## Finite State Machine (FSM)
 ![FSM](https://user-images.githubusercontent.com/121319389/209424214-325b2872-73c6-436b-9791-790c3bc89802.png)
 
-# Demo Video
+## Result
+![result](https://user-images.githubusercontent.com/121319389/209424431-9c421ad0-58c9-474b-9fd3-10d0934ea7af.png)
+![final](https://user-images.githubusercontent.com/121319389/209424443-c3790cbf-a571-41c7-8578-16ef1e849d30.png)
+
+## Demo Video
 https://youtu.be/Ia1REUuWszM
